@@ -28,4 +28,3 @@ c=True
 d=True
 resultado2=((a and b) and c) or d 
 print("el resultado es 2:",resultado2)
-def suma ()
